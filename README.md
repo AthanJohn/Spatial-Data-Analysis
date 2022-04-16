@@ -10,7 +10,7 @@ boxplot.R:
 Moran's I scatterplot and map.R:
 - Utilized R to export local moran's I and create a scatterplot with Xi and wXj variables
 - Created a map using ggplot2 and rgeos packages and added umemployment rates in municipalities
-- Observed the spatial auto corellation of these unempoyment rates
+- Observed the spatial auto correlation of these unempoyment rates
 
 opposite histogramms creation.R:
 - Created two opposite histogramms which containts the unemployment rates of men and women
